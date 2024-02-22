@@ -9,9 +9,9 @@ Writing a sample code for a Node web application using require SQL, and GraphQL 
 5. edit an engineer [userId, firstName, lastName, fullName, title, status, siteId]
 6. edit a site location [siteId, siteName, address, city, state]
 
-Answers with simple explanation and step by step sample uses-case and include [ modules, controller , model, unit test] file to create.
+Step by step sample uses-case which includes [ modules, controller , model, unit test] file to create.
 
-Sure! I'll help you create a Node web application using SQL, and GraphQL API to manage engineers and engineer site locations. We'll structure the project into modules, controllers, models, and unit tests. To achieve this, you'll need to set up a new Node.js project, install the necessary dependencies, and create the required files.
+creating a Node web application using SQL, and GraphQL API to manage engineers and engineer site locations. We'll structure the project into modules, controllers, models, and unit tests. To achieve this, we'll need to set up a new Node.js project, install the necessary dependencies, and create the required files.
 
 **Step-by-step guide:**
 
